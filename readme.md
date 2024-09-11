@@ -1,4 +1,4 @@
-# Task: Users By WebsiteTop Level Domain (TLD)
+# Task: Users By Website Top Level Domain (TLD)
 
 To run the task, please open `index.html` in your browser.
 
